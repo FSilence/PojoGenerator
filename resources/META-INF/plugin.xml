@@ -2,14 +2,17 @@
   <id>com.wlh.beangenerator</id>
   <name>PojoGenerator</name>
   <version>1.0</version>
-  <vendor email="weiluhao110@163.com" url="https://fsilence.github.io/">Weilh</vendor>
+  <vendor email="weiluhao110@163.com" url="https://github.com/FSilence/PojoGenerator" >Weilh</vendor>
 
   <description><![CDATA[
-      Bean对象生成器
+      Bean对象生成器 <br/>
+      github <a url="https://github.com/FSilence/PojoGenerator">https://github.com/FSilence/PojoGenerator</a> <br/>
+      Blog <a url="https://fsilence.github.io/">https://fsilence.github.io/</a>
     ]]></description>
 
   <change-notes><![CDATA[
-      1.0 支持把格式化的数据转换为Bean对像
+      1.0 支持把格式化的数据转换为Bean对像 <br/>
+      设置数据的分割字符,将数据拆分为名称 类型 注释三部分并自动生成对应的Class文件
 
     ]]>
   </change-notes>
