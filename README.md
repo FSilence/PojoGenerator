@@ -7,5 +7,6 @@ PojoGenrator is a plugin for idea (Android Studio),what can generator pojo class
 
 ## HOW TO USE  
 
-![](images/pojo-user.gif)  
+![](images/pojo-use1.png)  
+![](images/pojo-use2.png)  
 
