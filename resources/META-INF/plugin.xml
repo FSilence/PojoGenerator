@@ -1,4 +1,4 @@
-<idea-plugin version="3">
+<idea-plugin version="4">
   <id>com.wlh.beangenerator</id>
   <name>PojoGenerator</name>
   <version>1.0.1</version>
